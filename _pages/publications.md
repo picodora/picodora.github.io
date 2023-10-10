@@ -47,7 +47,7 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
 
 
-### <span style="color:rgb(39, 117, 182)">Mgtbench: Benchmarking machine-generated text detection</span>
+### <span style="color:rgb(39, 117, 182)">Mgtbench: Benchmarking Machine-Generated Text Detection</span>
 <font size="3">Xinlei He, Xinyue Shen, <b>Zeyuan Chen</b>, Michael Backes, Yang Zhang;
 <i>Arxiv</i></font>
 <a href="https://arxiv.org/abs/2303.14822" class="btn--paper" target="_blank">pdf</a>
