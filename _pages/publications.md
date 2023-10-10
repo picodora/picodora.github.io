@@ -65,5 +65,5 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">SIMulation: Demystifying (Insecure) Cellular Network based One-Tap Authentication Services</span>
 <font size="3">Ziyi Zhou, Xing Han, <b>Zeyuan Chen</b>, Yuhong Nan, Juanru Li, Dawu Gu;
-<i>DSN</i></font>
+<i>DSN 2022</i></font>
 <a href="https://ieeexplore.ieee.org/abstract/document/9833804" class="btn--paper" target="_blank">pdf</a>
