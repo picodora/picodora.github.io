@@ -55,7 +55,7 @@ a { TEXT-DECORATION:none }
 <a href="https://github.com/xinleihe/MGTBench" class="btn--code" target="_blank">code</a>
 
 
-### <span style="color:rgb(39, 117, 182)">Medusa Attack: Exploring Security Hazards of {In-App}{QR} Code Scanning</span>
+### <span style="color:rgb(39, 117, 182)">Medusa Attack: Exploring Security Hazards of In-App QR Code Scanning</span>
 <font size="3">Xing Han, Yuheng Zhang, Xue Zhang, <b>Zeyuan Chen</b>, Mingzhe Wang, Yiwei Zhang, Siqi Ma, Yu Yu, Elisa Bertino, Juanru Li;
 <i>USENIX Security 2023</i></font>
 <a href="https://www.usenix.org/system/files/usenixsecurity23-han-xing.pdf" class="btn--paper" target="_blank">pdf</a>
