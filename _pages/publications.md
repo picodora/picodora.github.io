@@ -38,6 +38,7 @@ a { TEXT-DECORATION:none }
 <i>Arxiv</i></font>
 <a href="https://arxiv.org/abs/2308.03825" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2308.03825" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/verazuo/jailbreak_llms" class="btn--code" target="_blank">code</a>
 
 
 ### <span style="color:rgb(39, 117, 182)">In Chatgpt We Trust? Measuring and Characterizing the Reliability of Chatgpt</span>
