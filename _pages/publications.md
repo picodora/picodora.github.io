@@ -33,6 +33,14 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2023'>2023</h2>
 
+### <span style="color:rgb(39, 117, 182)">Comprehensive Assessment of Toxicity in ChatGPT</span>
+<font size="3">Boyang Zhang, Xinyue Shen, Wai Man Si, Zeyang Sha, <b>Zeyuan Chen</b>, Ahmed Salem, Yun Shen, Michael Backes, Yang Zhang;
+<i>Arxiv</i></font>
+<a href="https://arxiv.org/abs/2311.14685" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2311.14685" class="btn--arxiv" target="_blank">arxiv</a>
+
+
+
 ### <span style="color:rgb(39, 117, 182)">"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</span>
 <font size="3">Xinyue Shen, <b>Zeyuan Chen</b>, Michael Backes, Yun Shen, Yang Zhang;
 <i>Arxiv</i></font>
