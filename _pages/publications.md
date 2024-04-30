@@ -43,7 +43,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</span>
 <font size="3">Xinyue Shen, <b>Zeyuan Chen</b>, Michael Backes, Yun Shen, Yang Zhang;
-<i>Arxiv</i></font>
+<i>CCS 2024</i></font>
 <a href="https://arxiv.org/abs/2308.03825" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2308.03825" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/verazuo/jailbreak_llms" class="btn--code" target="_blank">code</a>
