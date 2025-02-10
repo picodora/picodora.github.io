@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Service"
+title: ""
 permalink: /Service/
 author_profile: true
 ---
