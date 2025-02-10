@@ -10,8 +10,10 @@ author_profile: true
 %A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
 <h2>External Reviewer</h2>
-* 2025: [WWWW](https://www2025.thewebconf.org/), [DIMVA](https://www.dimva.org/dimva2025/)
+
+* 2025: [WWW](https://www2025.thewebconf.org/), [DIMVA](https://www.dimva.org/dimva2025/)
 * 2024: [DLSP](https://dlsp2024.ieee-security.org/)
+
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
