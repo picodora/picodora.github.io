@@ -10,6 +10,10 @@ redirect_from:
 
 I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my Bachelor’s degree from UC Davis (2017).
 
+## Research Interests
+- Security of generative AI and LLM agents
+- Social network analysis
+
 ## News
 2024.05 Our paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)!
 
