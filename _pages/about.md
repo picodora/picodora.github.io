@@ -15,6 +15,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Social network analysis
 
 ## News
+2025.06 I became a reviewer of [Transactions on Audio, Speech and Language Processing (TASLP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
+
 2024.05 Our paper titled “MGTBench: Benchmarking Machine-Generated Text Detection” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)!
 
 2024.04 Our paper titled “Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)!
