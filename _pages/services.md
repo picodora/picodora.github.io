@@ -1,8 +1,11 @@
 ---
 title: Services
 permalink: /service/
-layout: page
+layout: single
+author_profile: true
 ---
+
+
 
 ## Journal  Reviewer
 - 2025: [Transactions on Audio, Speech, and Language Processing()](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
