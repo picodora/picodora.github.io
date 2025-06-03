@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Journal  Reviewer
-- 2025: [Transactions on Audio, Speech, and Language Processing()](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
+- 2025: [Transactions on Audio, Speech, and Language Processing(TASLP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
 
 ## External Reviewer
 - 2025: [WWW](https://www2025.thewebconf.org/), [DIMVA](https://www.dimva.org/dimva2025/) 
