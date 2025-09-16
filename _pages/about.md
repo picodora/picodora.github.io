@@ -18,7 +18,7 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
-2025.09 I will serve on the Program Committee of [ACISP 2026](https://acisp-conference.github.io/acisp2026/index.html).
+2025.09 I will join the PC of [ACISP 2026](https://acisp-conference.github.io/acisp2026/index.html).
 
 2025.07 Our paper ““Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models” won [the Best Machine Learning and Security Paper in Cybersecurity Award 2025](https://cybersecurity.springeropen.com/award-2025)!
 
