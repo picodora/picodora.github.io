@@ -9,7 +9,10 @@ author_profile: true
 ## Conference PC
 - 2026: ACISP
 
-## Journal  Reviewer
+## Conference Reviewer
+- 2026: ICWSM
+
+## Journal Reviewer
 - 2025: TASLP, TISF
 
 ## External Reviewer
