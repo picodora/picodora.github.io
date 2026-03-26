@@ -6,11 +6,8 @@ author_profile: true
 ---
 
 
-## Conference PC
-- 2026: ACISP
-
-## Conference Reviewer
-- 2026: ICWSM
+## Conference PC/Reviewer
+- 2026: ACISP, ICWSM
 
 ## Journal Reviewer
 - 2025: TASLP, TISF
