@@ -33,6 +33,17 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2026'>2026</h2>
 
+### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
+<font size="3"><b>Zeyuan Chen</b>, Ziqing Yang, Yihan Ma, Michael Backes, Yang Zhang;
+<i>Arxiv</i></font>
+
+
+### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
+<font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
+<i>Arxiv</i></font>
+<a href="http://sarxiv.org/abs/2603.01919" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
+
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
 <font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
 <i>Arxiv</i></font>
