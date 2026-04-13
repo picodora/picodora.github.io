@@ -35,7 +35,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
 <font size="3"><b>Zeyuan Chen</b>, Ziqing Yang, Yihan Ma, Michael Backes, Yang Zhang;
-<i>Arxiv</i></font>
+<i>ACL Findings 2026</i></font>
 
 
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
