@@ -29,6 +29,14 @@ text-align: center;
 border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
+.btn--dataset {
+  color: white;
+  background-color: #a64ac9;
+  padding: 1px 3px;
+  text-align: center;
+  border-radius: 4px;
+  text-decoration: none;
+}
 </style>
 
 <h2 id='2026'>2026</h2>
@@ -36,6 +44,10 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
 <font size="3"><b>Zeyuan Chen</b>, Ziqing Yang, Yihan Ma, Michael Backes, Yang Zhang;
 <i>ACL Findings 2026</i></font>
+<a href="https://openreview.net/pdf?id=1kwbbqmtYo" class="btn--paper" target="_blank">pdf</a>
+<a href="https://openreview.net/pdf?id=1kwbbqmtYo" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/TrustAIRLab/PeerCheck" class="btn--code" target="_blank">code</a>
+<a href="https://huggingface.co/datasets/TrustAIRLab/PeerCheck" class="btn--dataset" target="_blank">dataset</a>
 
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
 <font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
