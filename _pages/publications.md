@@ -31,7 +31,7 @@ a { TEXT-DECORATION:none }
 }
 .btn--dataset {
   color: white;
-  background-color: #c94f7c;
+  background-color: #b5836d;
   padding: 1px 3px;
   text-align: center;
   border-radius: 4px;
