@@ -57,7 +57,7 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
-### <span style="color:rgb(39, 117, 182)">Mgtbench: Benchmarking Machine-Generated Text Detection</span>
+### <span style="color:rgb(39, 117, 182)">MGTBench: Benchmarking Machine-Generated Text Detection</span>
 <font size="3">Xinlei He, Xinyue Shen, <b>Zeyuan Chen</b>, Michael Backes, Yang Zhang;
 <i>CCS 2024</i></font>
 <a href="https://arxiv.org/abs/2303.14822" class="btn--paper" target="_blank">pdf</a>
