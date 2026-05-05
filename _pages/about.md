@@ -18,6 +18,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.04 I am serving as a reviewer for the [NeurIPS 2026](https://neurips.cc/).
+
 2026.04 Our paper titled "PeerCheck: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality" got accepted in [ACL findings 2026](https://2026.aclweb.org/)!
 
 2026.01 I am serving as a reviewer for the [ICWSM 2026](https://www.icwsm.org/2026/index.html).
