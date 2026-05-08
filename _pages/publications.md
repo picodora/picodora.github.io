@@ -51,8 +51,13 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
 <font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
 <i>Arxiv</i></font>
-<a href="http://sarxiv.org/abs/2603.01919" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
+
+### <span style="color:rgb(39, 117, 182)">Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models
+</span>
+<font size="3"><b>Zeyuan Chen</b>,  Yihan Ma, Xinyue Shen, Michael Backes, Yang Zhang;
+<i>Arxiv</i></font>
+<a href="https://arxiv.org/abs/2605.06423" class="btn--arxiv" target="_blank">arxiv</a>
 
 
 <h2 id='2024'>2024</h2>
