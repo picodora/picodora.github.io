@@ -53,8 +53,7 @@ a { TEXT-DECORATION:none }
 <i>Arxiv</i></font>
 <a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
 
-### <span style="color:rgb(39, 117, 182)">Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models
-</span>
+### <span style="color:rgb(39, 117, 182)">Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models</span>
 <font size="3"><b>Zeyuan Chen</b>,  Yihan Ma, Xinyue Shen, Michael Backes, Yang Zhang;
 <i>Arxiv</i></font>
 <a href="https://arxiv.org/abs/2605.06423" class="btn--arxiv" target="_blank">arxiv</a>
