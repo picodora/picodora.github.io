@@ -13,6 +13,6 @@ author_profile: true
 - 2025: TASLP, TISF
 
 ## External Reviewer
-- 2026: ECCV
+- 2026: ECCV, ARR
 - 2025: WWW, DIMVA
 - 2024: DLSP
