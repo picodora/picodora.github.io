@@ -44,7 +44,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
 <font size="3"><b>Zeyuan Chen</b>, Ziqing Yang, Yihan Ma, Michael Backes, Yang Zhang;
 <i>ACL Findings 2026</i></font>
-<a href="https://openreview.net/pdf?id=1kwbbqmtYo" class="btn--paper" target="_blank">pdf</a>
+<a href="https://aclanthology.org/2026.findings-acl.1170.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2606.20897" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/TrustAIRLab/PeerCheck" class="btn--code" target="_blank">code</a>
 <a href="https://huggingface.co/datasets/TrustAIRLab/PeerCheck" class="btn--dataset" target="_blank">dataset</a>
