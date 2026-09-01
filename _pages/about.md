@@ -12,12 +12,14 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 
 ## Research Interests
 - Security and Safety of LLMs
-- Human-Centered AI System Security
+- Human-Centered AI System Analysis
 
 ## Award
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.07 Our paper titled "Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia" got accepted in [EMNLP findings 2026](https://2026.emnlp.org/)!
+
 2026.07 I will join the PC of [AISec 2026](https://aisec.cc/).
 
 2026.04 I am serving as a reviewer for the [NeurIPS 2026](https://neurips.cc/).
