@@ -40,7 +40,8 @@ a { TEXT-DECORATION:none }
 </style>
 
 <h2 id='2027'>2026</h2>
-### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
+
+### <span style="color:rgb(39, 117, 182)">Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conferences</span>
 <font size="3"><b>Zeyuan Chen</b>, Ye Leng, Chi Cui, Mengfei Liang, Bo Shao, Xinyu Zhang, Yun Shen, Michael Backes, Xinyue Shen, Yang Zhang;
 <i>IEEE S&P 2027</i></font>
 
