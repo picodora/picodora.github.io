@@ -18,6 +18,10 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.09 Our paper titled "Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conferences" got accepted in [IEEE S&P 2027](https://sp2027.ieee-security.org/index.html)!
+
+2026.08 Our paper titled "Real Money, Fake Models: Deceptive Model Claims in Shadow APIs" got accepted in [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html)!
+
 2026.07 Our paper titled "Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia" got accepted in [EMNLP findings 2026](https://2026.emnlp.org/)!
 
 2026.07 I will join the PC of [AISec 2026](https://aisec.cc/).
@@ -32,7 +36,4 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 
 2025.07 Our paper ““Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models” won [the Best Machine Learning and Security Paper in Cybersecurity Award 2025](https://cybersecurity.springeropen.com/award-2025)!
 
-2025.06 I became a reviewer of [Transactions on Information Forensics & Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206).
-
-2025.06 I became a reviewer of [Transactions on Audio, Speech and Language Processing (TASLP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655).
 
