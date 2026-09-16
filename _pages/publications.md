@@ -39,6 +39,12 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
+<h2 id='2027'>2026</h2>
+### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
+<font size="3"><b>Zeyuan Chen</b>, Ye Leng, Chi Cui, Mengfei Liang, Bo Shao, Xinyu Zhang, Yun Shen, Michael Backes, Xinyue Shen, Yang Zhang;
+<i>IEEE S&P 2027</i></font>
+
+
 <h2 id='2026'>2026</h2>
 
 ### <span style="color:rgb(39, 117, 182)">$\texttt{PeerCheck}$: Enhancing LLM-Generated Academic Reviews Towards Human-Level Quality</span>
@@ -57,7 +63,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
 <font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
-<i>Arxiv</i></font>
+<i>CCS 2026</i></font>
 <a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models</span>
