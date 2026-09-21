@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Conference PC/Reviewer
+- 2027: ACISP
 - 2026: ACISP, ICWSM, NeurIPS, AISec
 
 ## Journal Reviewer
