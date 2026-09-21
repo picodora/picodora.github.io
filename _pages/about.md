@@ -18,6 +18,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.09 I will join the PC of [ACISP 2027](https://acisp.org/).
+
 2026.09 Our paper titled "Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conferences" got accepted in [IEEE S&P 2027](https://sp2027.ieee-security.org/index.html)!
 
 2026.08 Our paper titled "Real Money, Fake Models: Deceptive Model Claims in Shadow APIs" got accepted in [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html)!
