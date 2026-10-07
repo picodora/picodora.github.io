@@ -18,6 +18,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.10 I am serving as a reviewer for the [ICWSM 2027](https://www.icwsm.org/2027/index.html).
+
 2026.09 I have been invited to serve as a PC member for [ACISP 2027](https://acisp.org/).
 
 2026.09 Our paper titled "Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conferences" got accepted in [IEEE S&P 2027](https://sp2027.ieee-security.org/index.html)!
@@ -35,7 +37,5 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 2026.01 I am serving as a reviewer for the [ICWSM 2026](https://www.icwsm.org/2026/index.html).
 
 2025.09 I have been invited to serve as a PC member for [ACISP 2026](https://acisp-conference.github.io/acisp2026/index.html).
-
-2025.07 Our paper ““Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models” won [the Best Machine Learning and Security Paper in Cybersecurity Award 2025](https://cybersecurity.springeropen.com/award-2025)!
 
 
