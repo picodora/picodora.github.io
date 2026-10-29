@@ -18,6 +18,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
 
 ## News
+2026.10 I am serving as a reviewer for the [WWW](https://www2027.thewebconf.org/).
+
 2026.10 I am serving as a reviewer for the [ICWSM 2027](https://www.icwsm.org/2027/index.html).
 
 2026.09 I have been invited to serve as a PC member for [ACISP 2027](https://acisp.org/).
@@ -36,6 +38,5 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 
 2026.01 I am serving as a reviewer for the [ICWSM 2026](https://www.icwsm.org/2026/index.html).
 
-2025.09 I have been invited to serve as a PC member for [ACISP 2026](https://acisp-conference.github.io/acisp2026/index.html).
 
 
