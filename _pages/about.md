@@ -13,6 +13,7 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 ## Research Interests
 - Security and Safety of LLMs
 - Human-Centered AI System Analysis
+- Social Network Analysis for LLM Security
 
 ## Award
 - Best Machine Learning and Security Paper in Cybersecurity Award 2025
