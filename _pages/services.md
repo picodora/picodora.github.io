@@ -11,7 +11,7 @@ author_profile: true
 - 2026: ACISP, ICWSM, NeurIPS, AISec
 
 ## Journal Reviewer
-- 2025: TASLP, TIFS
+TASLP, TIFS
 
 ## External Reviewer
 - 2026: ECCV, ARR
