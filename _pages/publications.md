@@ -59,7 +59,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Behavior Carries Over: An AI Sandbagging Detection Method Inspired by Honest Inertia</span>
 <font size="3">Junjie Chu, Mingjie Li, <b>Zeyuan Chen</b>, Ye Leng, Yisen Wang, Michael Backes, Yang Zhang;
 <i>EMNLP Findings 2026</i></font>
-<a href="https://openreview.net/pdf?id=JeiENVYd9b" class="btn--paper" target="_blank">pdf</a>
+<a href="https://aclanthology.org/2026.findings-emnlp.2154.pdf" class="btn--paper" target="_blank">pdf</a>
 
 
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
