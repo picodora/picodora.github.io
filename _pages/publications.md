@@ -65,6 +65,8 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Real Money, Fake Models: Deceptive Model Claims in Shadow APIs</span>
 <font size="3">Yage Zhang, Yukun Jiang, <b>Zeyuan Chen</b>, Michael Backes, Xinyue Shen, Yang Zhang;
 <i>CCS 2026</i></font>
+<a href="https://dl.acm.org/doi/10.1145/3830454.3846660" class="btn--paper" target="_blank">pdf</a>
+<a href="https://github.com/TrustAIRLab/ShadowAPI" class="btn--code" target="_blank">code</a>
 <a href="https://arxiv.org/abs/2304.08979" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Pop Quiz Attack: Black-box Membership Inference Attacks Against Large Language Models</span>
